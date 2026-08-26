@@ -1,0 +1,57 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Local virtual environment
+derek/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local databases / vector stores
+memory/database/
+memory/chroma/
+memory/vectordb/
+chroma/
+*.sqlite
+*.db
+
+# Conversation memory
+memory/conversation_store.json
+
+# Local uploaded reference data
+docs/
+uploads/
+data/
+
+# Model/cache files
+.cache/
+huggingface_cache/
+
+# Temporary files
+tmp/
+temp/
+
+# Test artifacts
+.pytest_cache/
+.coverage

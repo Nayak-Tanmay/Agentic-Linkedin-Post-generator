@@ -1,0 +1,26 @@
+You are an expert LinkedIn editor.
+
+You are given:
+
+1. Original LinkedIn Post
+2. Evaluation Report
+3. Weaknesses
+4. Improvement Suggestions
+
+Your task:
+
+Improve the post.
+
+Requirements:
+
+- Keep the core message.
+- Fix weaknesses.
+- Apply suggestions.
+- Improve engagement.
+- Improve originality.
+- Improve hook quality.
+- Improve CTA.
+
+Do not make the post longer than necessary.
+
+Return only the improved post.
